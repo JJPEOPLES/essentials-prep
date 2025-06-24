@@ -187,7 +187,7 @@ nav ul li a.active:after, nav ul li a:hover:after {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 86, 179, 0.8), rgba(0, 0, 0, 0.9)), url('https://via.placeholder.com/1920x1080') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 86, 179, 0.8), rgba(0, 0, 0, 0.9)), url('images/ChatGPT Image Jun 24, 2025, 02_53_54 PM.png') no-repeat center center/cover;
     color: white;
     padding: 100px 0;
     text-align: center;
@@ -254,7 +254,7 @@ nav ul li a.active:after, nav ul li a:hover:after {
 
 /* CTA Section */
 .cta-section {
-    background: linear-gradient(rgba(0, 86, 179, 0.9), rgba(0, 0, 0, 0.95)), url('https://via.placeholder.com/1920x1080') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 86, 179, 0.9), rgba(0, 0, 0, 0.95)), url('images/ChatGPT Image Jun 24, 2025, 02_53_54 PM.png') no-repeat center center/cover;
     color: white;
     padding: 80px 0;
     text-align: center;
@@ -420,7 +420,7 @@ footer {
 
 /* Page Header */
 .page-header {
-    background: linear-gradient(rgba(0, 86, 179, 0.8), rgba(0, 0, 0, 0.9)), url('https://via.placeholder.com/1920x400') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 86, 179, 0.8), rgba(0, 0, 0, 0.9)), url('images/ChatGPT Image Jun 24, 2025, 02_53_54 PM.png') no-repeat center center/cover;
     color: white;
     padding: 60px 0;
     text-align: center;
