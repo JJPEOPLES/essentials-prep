@@ -33,9 +33,9 @@ function App() {
             <main>
               <Routes>
                 <Route path="/" element={<Home />} />
-                <Route path="/services" element={<Services />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/contact" element={<Contact />} />
+                <Route path="/services" element={<div className="pt-20"><Services /></div>} />
+                <Route path="/about" element={<div className="pt-20"><About /></div>} />
+                <Route path="/contact" element={<div className="pt-20"><Contact /></div>} />
               </Routes>
             </main>
             <Footer />
